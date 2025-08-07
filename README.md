@@ -1,6 +1,8 @@
 # Game Jam Starter Code
 This is a place for you to start building your Game Jam Project!
 
+Play the game [here](https://ibringfaith.github.io/bloom-again/)
+
 ### Project Requirements
 Your project should:
 - Include a clear description of the goal and rules. 
